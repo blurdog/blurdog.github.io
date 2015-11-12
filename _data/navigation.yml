@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: Linux
+  url: /linux/
+
+- title: Server
+  url: /server/
+
+- title: Shell
+  url: /shell/
+
+- title: Python
+  url: /python/
+
+- title: About
+  url: /about/
